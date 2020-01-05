@@ -7,6 +7,7 @@ import java.util.List;
 
 public class Execu {
 	public static void main(String[] args) {
+		//test demo
 		STudent s1 = new STudent("siva", 1, 1000);
 		STudent s2 = new STudent("nandan", 2, 9000);
 		STudent s3 = new STudent("reddy", 3, 100);
