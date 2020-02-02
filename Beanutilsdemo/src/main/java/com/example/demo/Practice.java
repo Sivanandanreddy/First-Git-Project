@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Practice {
 	private String name;
+	private String id;
 	private List<String> courses=Arrays.asList("nandan","iz","don");
 	
 	
